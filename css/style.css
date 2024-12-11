@@ -1,0 +1,105 @@
+
+body{
+    padding: 5px;
+    background-image: url('https://i.pinimg.com/originals/63/d5/63/63d563591377a0cc96a50b809d3728c1.gif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+
+h1{
+    background-color: f4d68e;
+    color: black;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    font-family: cursive;
+}
+
+.bio{
+    background-color: white;
+    margin: 25px 0px 0px 0px;
+    padding: 20px;
+    border-radius: 10px;
+    border: solid black 2px;
+
+    display: flex;
+}
+
+p{
+    margin: 0px 20px 0px 20px;
+    font-family: 'EB Garamond';
+}
+.image1{
+    height: auto;
+    width: 50%;
+    border-radius: 10px;
+}
+
+.twiglight{
+    height: auto;
+    width: 50%;
+    border-radius: 10px;
+    
+}
+
+.movieIntro{
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    background-color: white;
+    margin: 25px 0px 0px 0px;
+    padding: 20px;
+    border-radius: 10px;
+    border: solid black 1px;
+    margin: 20px 0px 20px 0px;
+}
+
+.movieText{
+    background-image: radial-gradient(white, #cfff87) ;
+    margin: 25px 0px 0px 0px;
+    padding: 20px;
+    border-radius: 70px 5px 90px 5px;
+    border: solid black 0px;
+    margin: 0px 15px 0px 0px;
+}
+
+.videoSection{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.audioSection{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+audio{
+    width: 100%;
+}
+
+.steeveImage{
+    border-radius: 50px;
+}
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(44, 44, 44);
+    color: white;
+    margin: 20px 0px 0px 0px;
+    
+  }
+
+  .textFooter{
+    font-family: cursive;
+    color: white;
+  }
+
+
+
